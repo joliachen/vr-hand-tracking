@@ -17,12 +17,12 @@ First git clone the repository:
 ```bash
 git clone --recurse-submodules https://github.com/joliachen/vr-hand-tracking.git
 ```
-Git clone RUKA:
+<!-- Git clone RUKA:
 ```bash
 cd vr-hand-tracking/Franka-Teach/RUKA
 git clone https://github.com/joliachen/RUKA.git
-cd ../..
-```
+cd ../.. -->
+<!-- ``` -->
 
 Then set up conda environment:
 ```bash
